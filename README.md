@@ -2,7 +2,7 @@
 *yeah... thats about it*
 
 ## Usage:
-`gogext.sh <game-file-you-want-to-unpack.sh> <output-directory> (optionally)`
+`gogext.sh <game-installer-you-want-to-unpack.sh> <output-directory> (optionally)`
 
 ## Limitations:
 - Speed of extraction process is far from being fast - blame dd's defaults. If you have any ideas regarding how to improve that - please let me know via issues
