@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Bash script to unpack gog's linux game installers. Basically a rewrire of Yepoleb's awesome gogextract.py: https://github.com/Yepoleb/gogextract
+#Bash script to unpack gog's linux game installers. Basically a rewrite of Yepoleb's awesome gogextract.py: https://github.com/Yepoleb/gogextract
 scriptname=`basename "$0"`
 
 #First of all - lets check if we actually got any arguments passed to our script
