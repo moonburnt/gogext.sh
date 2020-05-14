@@ -6,7 +6,7 @@ scriptname=`basename "$0"`
 #First of all - lets check if we actually got any arguments passed to our script
 #Checking for first argument which stands for name of game file, we are about to unpack. If empty - display help regarding script's usage and exit
 if [ -z "$1" ]; then
-	echo "Input is empty. Usage: $scriptname <input file> <output dir>"
+	echo "Input is empty. Usage: $scriptname <game-installer-you-want-to-unpack.sh> <output-directory> (optionally)"
 	exit 1
 else
 	filename="$1"
